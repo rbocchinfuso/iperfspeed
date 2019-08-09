@@ -65,6 +65,7 @@ cp ./iperfspeed_config_sample.py ./iperfspeed_config.py
 ## Todo
 * Add source process identifier to payload to allow for multi-threaded testing and logging.
 * Add tweet to service provider on bandwidth threshold violation.
+* Integrate with telegram and create bot to trigger test and report results via telegram bot.
 
 ## Meta
 Richard J. Bocchinfuso – [@rbocchinfuso](https://twitter.com/rbocchinfuso) – rbocchifuso@gmail.com
